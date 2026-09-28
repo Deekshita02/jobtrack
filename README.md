@@ -43,4 +43,4 @@ A full-stack job application tracker built to manage and monitor job application
 
 ## Status
 
-Backend and frontend are both complete and fully integrated — authentication, protected routes and full CRUD are working end to end locally. Live deployment in progress.
+Backend and frontend are both complete and fully integrated — authentication, protected routes and full CRUD are working end to end locally. Live deployed https://jobtrack-frontend-h538.vercel.app/.
